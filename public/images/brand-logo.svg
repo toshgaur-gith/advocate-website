@@ -1,0 +1,14 @@
+<svg width="720" height="220" viewBox="0 0 720 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="220" fill="transparent"/>
+  <circle cx="92" cy="110" r="68" fill="#050505" stroke="#C89B3C" stroke-width="3"/>
+  <circle cx="92" cy="110" r="54" fill="none" stroke="#C89B3C" stroke-opacity="0.35" stroke-width="1.5"/>
+  <path d="M92 55V153" stroke="#C89B3C" stroke-width="5" stroke-linecap="round"/>
+  <path d="M61 79H123" stroke="#C89B3C" stroke-width="5" stroke-linecap="round"/>
+  <path d="M68 79L48 123H88L68 79Z" stroke="#F1D58A" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M116 79L96 123H136L116 79Z" stroke="#F1D58A" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M74 153H110" stroke="#C89B3C" stroke-width="5" stroke-linecap="round"/>
+  <path d="M66 165H118" stroke="#C89B3C" stroke-width="5" stroke-linecap="round"/>
+  <text x="190" y="97" fill="#FFFFFF" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700" letter-spacing="0">Aap Ke Vakil Sahab</text>
+  <text x="193" y="139" fill="#C89B3C" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="7">ADVOCATE &amp; LEGAL CONSULTANT</text>
+  <path d="M190 160H615" stroke="#C89B3C" stroke-opacity="0.5" stroke-width="1.5"/>
+</svg>

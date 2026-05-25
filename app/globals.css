@@ -1,0 +1,105 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "swiper/css";
+@import "swiper/css/navigation";
+@import "swiper/css/pagination";
+@import "swiper/css/effect-fade";
+
+:root {
+  --gold: #c89b3c;
+  --black: #050505;
+  --beige: #f5efe4;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  background: var(--black);
+}
+
+body {
+  margin: 0;
+  color: #ffffff;
+  background: var(--black);
+  font-family: var(--font-inter), system-ui, sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+::selection {
+  background: rgba(200, 155, 60, 0.35);
+  color: #fff;
+}
+
+.luxury-container {
+  width: min(100% - 2rem, 1180px);
+  margin-inline: auto;
+}
+
+.gold-text {
+  color: var(--gold);
+}
+
+.section-label {
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--gold);
+  font-size: 0.72rem;
+  font-weight: 700;
+}
+
+.gold-gradient {
+  background: linear-gradient(135deg, #f3d98b 0%, #c89b3c 48%, #8b6420 100%);
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+.glass-nav {
+  background: rgba(5, 5, 5, 0.72);
+  backdrop-filter: blur(18px);
+  border-bottom: 1px solid rgba(200, 155, 60, 0.18);
+}
+
+.premium-shadow {
+  box-shadow: 0 22px 80px rgba(0, 0, 0, 0.28);
+}
+
+.swiper-pagination-bullet {
+  background: rgba(255, 255, 255, 0.7) !important;
+  opacity: 1 !important;
+}
+
+.swiper-pagination-bullet-active {
+  background: var(--gold) !important;
+}
+
+.hero-swiper .swiper-button-prev,
+.hero-swiper .swiper-button-next {
+  width: 44px;
+  height: 44px;
+  border-radius: 999px;
+  background: rgba(5, 5, 5, 0.42);
+  border: 1px solid rgba(200, 155, 60, 0.4);
+  color: #fff;
+}
+
+.hero-swiper .swiper-button-prev::after,
+.hero-swiper .swiper-button-next::after {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+@media (max-width: 767px) {
+  .hero-swiper .swiper-button-prev,
+  .hero-swiper .swiper-button-next {
+    display: none;
+  }
+}

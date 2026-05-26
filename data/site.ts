@@ -76,10 +76,10 @@ export const heroSlides = [
 ];
 
 export const stats = [
-  { value: "15+", label: "Years Experience" },
-  { value: "2,400+", label: "Happy Clients" },
-  { value: "1,850+", label: "Cases Won" },
-  { value: "24/7", label: "Support" }
+  { value: "15+", label: "Kanooni Guidance" },
+  { value: "2,400+", label: "Strong Case Preparation" },
+  {  label: "Practical Legal Support" },
+  { value: "24/7", label: "Client First Approach" }
 ];
 
 export const services = [

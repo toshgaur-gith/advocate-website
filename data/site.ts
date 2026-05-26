@@ -48,7 +48,7 @@ export const footerLinks = [
 export const heroSlides = [
   {
     image:
-      "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1920&q=82",
+      "/images/DHC.png",
     title: "आपके अधिकार। हमारी ज़िम्मेदारी।",
     subtitle:
       "Strategic legal representation with discretion, preparation, and a client-first mindset.",
@@ -57,7 +57,7 @@ export const heroSlides = [
   },
   {
     image:
-      "https://images.unsplash.com/photo-1505664194779-8beaceb93744?auto=format&fit=crop&w=1920&q=82",
+      "/images/SCOI.png",
     title: "अधिकारों की रक्षा। न्याय की प्रतिबद्धता।",
     subtitle:
       "Criminal, civil, family, property, and corporate advisory support with calm, precise guidance.",

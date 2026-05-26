@@ -29,7 +29,7 @@ export const siteConfig = {
   whatsapp: "https://wa.me/919876543210",
   email: "vakilsahabaapke@gmail.com",
   emailHref: "mailto:vakilsahabaapke@gmail.com",
-  address: "Chamber 204, District Court Complex, New Delhi, India"
+  address: "Chamber no G -322 3rd Floor, Karkardooma Court Complex, Delhi 110032"
 };
 
 export const navLinks = [
@@ -76,10 +76,10 @@ export const heroSlides = [
 ];
 
 export const stats = [
-  { value: "15+", label: "Kanooni Guidance" },
-  { value: "2,400+", label: "Strong Case Preparation" },
+  { label: "Kanooni Guidance" },
+  { label: "Strong Case Preparation" },
   {  label: "Practical Legal Support" },
-  { value: "24/7", label: "Client First Approach" }
+  { label: "Client First Approach" }
 ];
 
 export const services = [

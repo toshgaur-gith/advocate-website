@@ -76,10 +76,10 @@ export const heroSlides = [
 ];
 
 export const stats = [
-  { label: "Kanooni Guidance" },
-  { label: "Strong Case Preparation" },
-  {  label: "Practical Legal Support" },
-  { label: "Client First Approach" }
+  {  value: "Legal", label: "Kanooni Guidance" },
+  {  value: "Focused", label: "Strong Case Preparation" },
+  {  value: "Practical", label: "Practical Legal Support" },
+  { value: "Client", label: "Client First Approach" }
 ];
 
 export const services = [

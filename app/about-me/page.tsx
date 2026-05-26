@@ -47,7 +47,7 @@ export default function AboutMePage() {
               <div className="absolute -bottom-4 -right-4 h-28 w-28 border-b border-r border-gold/70" />
               <div className="relative aspect-[4/5] overflow-hidden bg-black premium-shadow">
                 <Image
-                  src="https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=900&q=82"
+                  src="/images/Advocate Paritosh Bhardwaj.png"
                   alt="Advocate portrait"
                   fill
                   sizes="(min-width: 1024px) 42vw, 100vw"

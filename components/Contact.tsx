@@ -85,7 +85,7 @@ export function Contact() {
               <div className="overflow-hidden border border-white/10 bg-white/[0.04]">
                 <iframe
                   title="Office location map"
-                  src="https://www.google.com/maps?q=District%20Court%20Complex%20New%20Delhi&output=embed"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1011.2696009867185!2d77.29704111382782!3d28.65483091458617!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfb67ee19de6f%3A0x1f16ada0b0c384fe!2sKARKARDOOMA%20COURT%2C%20Vishwas%20Nagar%20Extension%2C%20Vishwas%20Nagar%2C%20Shahdara%2C%20Delhi%2C%20110032!5e0!3m2!1sen!2sin!4v1779793347212!5m2!1sen!2sin"
                   width="100%"
                   height="260"
                   loading="lazy"

@@ -27,8 +27,8 @@ export const siteConfig = {
   phone: "+91 98765 43210",
   phoneHref: "tel:+919876543210",
   whatsapp: "https://wa.me/919876543210",
-  email: "consult@advocatesharma.com",
-  emailHref: "mailto:consult@advocatesharma.com",
+  email: "vakilsahabaapke@gmail.com",
+  emailHref: "mailto:vakilsahabaapke@gmail.com",
   address: "Chamber 204, District Court Complex, New Delhi, India"
 };
 
@@ -49,7 +49,7 @@ export const heroSlides = [
   {
     image:
       "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1920&q=82",
-    title: "Defending Rights. Delivering Justice.",
+    title: "आपके अधिकार। हमारी ज़िम्मेदारी।",
     subtitle:
       "Strategic legal representation with discretion, preparation, and a client-first mindset.",
     primaryCta: "Chat on WhatsApp",
@@ -58,7 +58,7 @@ export const heroSlides = [
   {
     image:
       "https://images.unsplash.com/photo-1505664194779-8beaceb93744?auto=format&fit=crop&w=1920&q=82",
-    title: "Trusted Counsel For Critical Matters.",
+    title: "अधिकारों की रक्षा। न्याय की प्रतिबद्धता।",
     subtitle:
       "Criminal, civil, family, property, and corporate advisory support with calm, precise guidance.",
     primaryCta: "Chat on WhatsApp",
@@ -67,7 +67,7 @@ export const heroSlides = [
   {
     image:
       "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1920&q=82",
-    title: "Clarity When The Stakes Are High.",
+    title: "सही सलाह। मज़बूत पक्ष।",
     subtitle:
       "Responsive legal consultation designed for individuals, families, founders, and businesses.",
     primaryCta: "Chat on WhatsApp",

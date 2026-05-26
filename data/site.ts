@@ -53,7 +53,7 @@ export const heroSlides = [
     subtitle:
       "Strategic legal representation with discretion, preparation, and a client-first mindset.",
     primaryCta: "Chat on WhatsApp",
-    secondaryCta: "Book Consultation"
+    
   },
   {
     image:
@@ -71,7 +71,7 @@ export const heroSlides = [
     subtitle:
       "Responsive legal consultation designed for individuals, families, founders, and businesses.",
     primaryCta: "Chat on WhatsApp",
-    secondaryCta: "Contact Me"
+   
   }
 ];
 

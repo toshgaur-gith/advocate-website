@@ -24,9 +24,9 @@ export const siteConfig = {
   ogImage:
     "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&h=630&q=80",
   instagram: "https://www.instagram.com/aap_ke_vakilsahab/",
-  phone: "+91 98765 43210",
-  phoneHref: "tel:+919876543210",
-  whatsapp: "https://wa.me/919876543210",
+  phone: "+91 9871855787",
+  phoneHref: "tel:+919871855787",
+  whatsapp: "https://wa.me/919871855787",
   email: "vakilsahabaapke@gmail.com",
   emailHref: "mailto:vakilsahabaapke@gmail.com",
   address: "Chamber no G -322 3rd Floor, Karkardooma Court Complex, Delhi 110032"

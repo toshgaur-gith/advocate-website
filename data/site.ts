@@ -49,7 +49,7 @@ export const heroSlides = [
   {
     image:
       "/images/DHC.png",
-    title: "आपके अधिकार। हमारी ज़िम्मेदारी।",
+    title: "Your Rights. My Responsibility.",
     subtitle:
       "Strategic legal representation with discretion, preparation, and a client-first mindset.",
     primaryCta: "Chat on WhatsApp",
@@ -58,7 +58,7 @@ export const heroSlides = [
   {
     image:
       "/images/SCOI.png",
-    title: "अधिकारों की रक्षा। न्याय की प्रतिबद्धता।",
+    title: "Professional. Trusted. Dedicated.",
     subtitle:
       "Criminal, civil, family, property, and corporate advisory support with calm, precise guidance.",
     primaryCta: "Chat on WhatsApp",
@@ -67,7 +67,7 @@ export const heroSlides = [
   {
     image:
       "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1920&q=82",
-    title: "सही सलाह। मज़बूत पक्ष।",
+    title: "Legal Protection You Can Trust",
     subtitle:
       "Responsive legal consultation designed for individuals, families, founders, and businesses.",
     primaryCta: "Chat on WhatsApp",
